@@ -1,0 +1,10 @@
+#all-rides, #kids-rides {
+  display: none;
+}
+.highlight{
+  background-color: #FFFF00;
+}
+.container{
+  max-width: auto;
+  
+}
